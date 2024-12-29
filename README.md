@@ -1,7 +1,7 @@
 # Virginia State University Faculty Collaboration Network Dashboard
 
 ### Access the Presentation
-- [Download the PowerPoint Presentation](path/to/Faculty_VSU_dashbored.pdf)
+- [Download the PowerPoint Presentation](Faculty_VSU_dashbored_powerpoint.pdf)
 
 #### Live Demo
 - [Live Demo of Dashboard](https://manuela123.shinyapps.io/vsu_network_dashbored/)
