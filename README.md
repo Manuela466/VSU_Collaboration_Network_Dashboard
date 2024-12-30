@@ -6,6 +6,9 @@
 #### Live Demo
 - [Live Demo of Dashboard](https://manuela123.shinyapps.io/vsu_network_dashbored/)
 
+#### Video Demo
+- [Video Demo of Dashboard](Network_anaylsis_record_720p.mov)
+
 ### Author:
 **Manuela Deigh, B.S.**  
 Presented as part of the Data Science For The Public Good (DSPG) Program  
